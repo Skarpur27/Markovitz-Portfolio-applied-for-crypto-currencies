@@ -20,3 +20,6 @@ Utilizing the Markowitz model to derive the efficient frontier for portfolios co
 Extending the analysis to include both long and short positions within the portfolios.  
 **Capital Market Line (CML) Construction**: Determining the CML to illustrate optimal portfolio selection based on individual risk tolerance.  
 **Index Creation**: Developing a bespoke cryptocurrency index for benchmarking the optimal portfolio's performance.
+
+
+![My Image](images/GrapheFrontièreEfficiente.png)
